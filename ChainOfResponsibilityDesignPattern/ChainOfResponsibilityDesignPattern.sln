@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityDesignPattern", "ChainOfResponsibilityDesignPattern\ChainOfResponsibilityDesignPattern.csproj", "{14C9662A-0A01-4558-8470-378910B0EFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityDesignPattern.Client", "ChainOfResponsibilityDesignPattern.Client\ChainOfResponsibilityDesignPattern.Client.csproj", "{3FC9B4EB-ABD2-42C0-BA06-EC50190B0635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C9662A-0A01-4558-8470-378910B0EFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C9662A-0A01-4558-8470-378910B0EFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C9662A-0A01-4558-8470-378910B0EFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C9662A-0A01-4558-8470-378910B0EFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC9B4EB-ABD2-42C0-BA06-EC50190B0635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC9B4EB-ABD2-42C0-BA06-EC50190B0635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC9B4EB-ABD2-42C0-BA06-EC50190B0635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC9B4EB-ABD2-42C0-BA06-EC50190B0635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25293513-33A1-4DCA-950F-5CAF96F05FB7}
+	EndGlobalSection
+EndGlobal
