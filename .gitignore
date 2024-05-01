@@ -73,3 +73,8 @@
 /CommandDesignPattern/CommandDesignPattern.Client/obj/Debug/netcoreapp3.1
 /CommandDesignPattern/CommandDesignPattern.Client/obj/Release/netcoreapp3.1
 /CommandDesignPattern/CommandDesignPattern.Client/obj
+/DoubletonDesignPattern/.vs/DoubletonDesignPattern
+/DoubletonDesignPattern/DoubletonClient/bin/Debug/net6.0
+/DoubletonDesignPattern/DoubletonClient/obj
+/DoubletonDesignPattern/DoubletonDesignPattern/bin/Debug/net6.0
+/DoubletonDesignPattern/DoubletonDesignPattern/obj
